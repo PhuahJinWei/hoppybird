@@ -1,6 +1,8 @@
 # hoppybird
 Play --> [Here](https://phuahjinwei.github.io/hoppybird/)
 <br/>
+<br/>
+<br/>
 <img src="Screenshot 2026-02-28 203608.png" alt="demoPic" width="30%">
 <br/>
 <br/>
